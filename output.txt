@@ -1,0 +1,28 @@
+The ID of this train is: 12345
+The number of railway cars on this train is: 10
+This train has not been registered.
+
+The ID of this train is: 3579
+The passenger capacity of the train is: 0
+This train has not been registered.
+
+The ID of this train is: 8642
+The passenger capacity of the train is: 32766
+This train has not been registered.
+
+The ID of this train is: 12345
+The number of railway cars on this train is: 8
+This train has been registered.
+
+The ID of this train is: 3579
+The passenger capacity of the train is: 780
+This train has been registered.
+
+The ID of this train is: 8642
+The passenger capacity of the train is: 540
+This train has been registered.
+
+The result of subtracting the second passenger train from the first is: 240
+
+Process returned 0 (0x0)   execution time : 0.091 s
+Press any key to continue.

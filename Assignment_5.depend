@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1584205420 source:c:\comp20080\assignment_5\main.cpp
+	<iostream>
+
+1668441360 source:c:\comp20080\assignment_5\train.cpp
+	<iostream>
+	"Vehicle.h"
+	"Train.h"
+
+1668013897 c:\comp20080\assignment_5\vehicle.h
+
+1668015831 c:\comp20080\assignment_5\train.h
+
+1668013894 source:c:\comp20080\assignment_5\vehicle.cpp
+	<iostream>
+	"Vehicle.h"
+
+1668097939 source:c:\comp20080\assignment_5\passengertraintrainvehiclemain.cpp
+	<fstream>
+	<iostream>
+	"Vehicle.h"
+	"Train.h"
+	"PassengerTrain.h"
+
+1668093012 c:\comp20080\assignment_5\passengertrain.h
+
+1668441360 source:c:\comp20080\assignment_5\passengertrain.cpp
+	<iostream>
+	"Vehicle.h"
+	"Train.h"
+	"PassengerTrain.h"
+
